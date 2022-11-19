@@ -23,7 +23,9 @@ N/A
 
 ## Usage 
 
-By clicking the links in the header of the webpage, you can jump to that particular section of the page.
+Look at the index.html and style.css files in the repository to view my comments throughout the code, which identifies all the changes that were made.
+
+On the deployed website, you can click the links in the header to jump to that particular section of the page.
 
 
 ## License
